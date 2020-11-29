@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:divider="@android:color/holo_blue_dark"
+    android:title="Ҷурсозиҳо">
+
+    <CheckBoxPreference
+        android:fontFamily="serif"
+        android:icon="@android:mipmap/sym_def_app_icon"
+        android:key="notif"
+        android:summary="Идораи овози барнома"
+        android:title="Овози барнома">
+
+    </CheckBoxPreference>
+
+    <EditTextPreference
+        android:icon="@android:mipmap/sym_def_app_icon"
+        android:key="address"
+        android:summary="Address for notifications"
+        android:title="Address">
+
+    </EditTextPreference>
+    <EditTextPreference
+        android:icon="@android:mipmap/sym_def_app_icon"
+        android:key="address"
+        android:summary="Address for notifications"
+        android:title="Address">
+
+    </EditTextPreference>
+    <EditTextPreference
+        android:icon="@android:mipmap/sym_def_app_icon"
+        android:key="address"
+        android:summary="Address for notifications"
+        android:title="Address">
+
+    </EditTextPreference>
+    <EditTextPreference
+        android:icon="@android:mipmap/sym_def_app_icon"
+        android:key="address"
+        android:summary="Address for notifications"
+        android:title="Address">
+
+    </EditTextPreference>
+    <EditTextPreference
+        android:icon="@android:mipmap/sym_def_app_icon"
+        android:key="address"
+        android:summary="Address for notifications"
+        android:title="Address">
+
+    </EditTextPreference>
+    <MultiSelectListPreference
+        android:icon="@android:mipmap/sym_def_app_icon"
+        android:key="address"
+        android:summary="Address for notifications"
+        android:title="Address">
+
+    </MultiSelectListPreference>
+
+</PreferenceScreen>

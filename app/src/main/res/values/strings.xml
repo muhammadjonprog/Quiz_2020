@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="play">Играть</string>
+    <string name="sett_menu">Настройки</string>
+    <string name="apps">Другие наши приложения</string>
+    <string name="exit_menu">Выход</string>
+    <string name="s">https://www.facebook.com/Tajikan-inc-103041054749649/</string>
+    <string name="title_dialog">Выход</string>
+    <string name="title_message">Хотите завершить?</string>
+    <string name="title_mess">Хотите выйти?</string>
+    <string name="title_mess_game">Игра еще не завершено!</string>
+    <string name="btn_yes">Да</string>
+    <string name="btn_no">Нет</string>
+     <string name="category">Категории</string>
+    <string name="btn_next">Следующий вопрос</string>
+    <string name="btn_menu">Меню</string>
+    <string name="btn_restart">Заново</string>
+    <string name="heart">Количество попиток закончено</string>
+    <string name="game_over">Игра закончено</string>
+    <string name="name">Name</string>
+    <string name="yes">Не</string>
+</resources>
